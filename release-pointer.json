@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "metadataOnly": true,
-  "launcherVersion": "0.1.9",
+  "launcherVersion": "0.1.10",
   "runtimeVersion": "client-c9eb79fad9d4-b7a4baa7e8ad",
   "distribution": "authenticated"
 }
